@@ -1,0 +1,26 @@
+F:\Learn\Python\codes\.idea
+F:\Learn\Python\codes\chapter1
+F:\Learn\Python\codes\.idea\.gitignore
+F:\Learn\Python\codes\.idea\codes.iml
+F:\Learn\Python\codes\.idea\inspectionProfiles
+F:\Learn\Python\codes\.idea\misc.xml
+F:\Learn\Python\codes\.idea\modules.xml
+F:\Learn\Python\codes\.idea\workspace.xml
+F:\Learn\Python\codes\.idea\inspectionProfiles\profiles_settings.xml
+F:\Learn\Python\codes\chapter1\1_1UnPacking A Sequence Into Separate Variables
+F:\Learn\Python\codes\chapter1\1_2Unpacking Elements From Iterables of Arbitrary Length
+F:\Learn\Python\codes\chapter1\1_3Keeping the Last N Items
+F:\Learn\Python\codes\chapter1\1_4Finding the Largetst or Smallest N Items
+F:\Learn\Python\codes\chapter1\1_5Implementing a Priority Queue
+F:\Learn\Python\codes\chapter1\1_6Mapping Keys to Multiple Values in a Dictionary
+F:\Learn\Python\codes\chapter1\1_7Keeping Dictionaries In Order
+F:\Learn\Python\codes\chapter1\1_8Calculating with Dictionaries
+F:\Learn\Python\codes\chapter1\1_1UnPacking A Sequence Into Separate Variables\P1_1.py
+F:\Learn\Python\codes\chapter1\1_2Unpacking Elements From Iterables of Arbitrary Length\1_2.py
+F:\Learn\Python\codes\chapter1\1_3Keeping the Last N Items\1.txt
+F:\Learn\Python\codes\chapter1\1_3Keeping the Last N Items\1_3.py
+F:\Learn\Python\codes\chapter1\1_4Finding the Largetst or Smallest N Items\1_4.py
+F:\Learn\Python\codes\chapter1\1_5Implementing a Priority Queue\1_5.py
+F:\Learn\Python\codes\chapter1\1_6Mapping Keys to Multiple Values in a Dictionary\1_6.py
+F:\Learn\Python\codes\chapter1\1_7Keeping Dictionaries In Order\1_7.py
+F:\Learn\Python\codes\chapter1\1_8Calculating with Dictionaries\1_8.py
