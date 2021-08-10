@@ -24,3 +24,6 @@ print(a,b,c,e)
 
 _,shares,price,_=data
 print(shares, price)
+
+a,b,*c=range(1,10,2)
+print(a, c)
