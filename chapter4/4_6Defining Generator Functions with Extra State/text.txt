@@ -1,0 +1,462 @@
+F:\Learn\Python\PythonCookBook\.gitignore
+F:\Learn\Python\PythonCookBook\.idea
+F:\Learn\Python\PythonCookBook\chapter1
+F:\Learn\Python\PythonCookBook\chapter2
+F:\Learn\Python\PythonCookBook\chapter3
+F:\Learn\Python\PythonCookBook\chapter4
+F:\Learn\Python\PythonCookBook\LICENSE
+F:\Learn\Python\PythonCookBook\README.md
+F:\Learn\Python\PythonCookBook\text.txt
+F:\Learn\Python\PythonCookBook\.git\COMMIT_EDITMSG
+F:\Learn\Python\PythonCookBook\.git\config
+F:\Learn\Python\PythonCookBook\.git\description
+F:\Learn\Python\PythonCookBook\.git\FETCH_HEAD
+F:\Learn\Python\PythonCookBook\.git\HEAD
+F:\Learn\Python\PythonCookBook\.git\hooks
+F:\Learn\Python\PythonCookBook\.git\index
+F:\Learn\Python\PythonCookBook\.git\info
+F:\Learn\Python\PythonCookBook\.git\logs
+F:\Learn\Python\PythonCookBook\.git\objects
+F:\Learn\Python\PythonCookBook\.git\packed-refs
+F:\Learn\Python\PythonCookBook\.git\refs
+F:\Learn\Python\PythonCookBook\.git\hooks\applypatch-msg.sample
+F:\Learn\Python\PythonCookBook\.git\hooks\commit-msg.sample
+F:\Learn\Python\PythonCookBook\.git\hooks\fsmonitor-watchman.sample
+F:\Learn\Python\PythonCookBook\.git\hooks\post-update.sample
+F:\Learn\Python\PythonCookBook\.git\hooks\pre-applypatch.sample
+F:\Learn\Python\PythonCookBook\.git\hooks\pre-commit.sample
+F:\Learn\Python\PythonCookBook\.git\hooks\pre-merge-commit.sample
+F:\Learn\Python\PythonCookBook\.git\hooks\pre-push.sample
+F:\Learn\Python\PythonCookBook\.git\hooks\pre-rebase.sample
+F:\Learn\Python\PythonCookBook\.git\hooks\pre-receive.sample
+F:\Learn\Python\PythonCookBook\.git\hooks\prepare-commit-msg.sample
+F:\Learn\Python\PythonCookBook\.git\hooks\update.sample
+F:\Learn\Python\PythonCookBook\.git\info\exclude
+F:\Learn\Python\PythonCookBook\.git\logs\HEAD
+F:\Learn\Python\PythonCookBook\.git\logs\refs
+F:\Learn\Python\PythonCookBook\.git\logs\refs\heads
+F:\Learn\Python\PythonCookBook\.git\logs\refs\remotes
+F:\Learn\Python\PythonCookBook\.git\logs\refs\heads\main
+F:\Learn\Python\PythonCookBook\.git\logs\refs\remotes\origin
+F:\Learn\Python\PythonCookBook\.git\logs\refs\remotes\origin\HEAD
+F:\Learn\Python\PythonCookBook\.git\logs\refs\remotes\origin\main
+F:\Learn\Python\PythonCookBook\.git\objects\06
+F:\Learn\Python\PythonCookBook\.git\objects\07
+F:\Learn\Python\PythonCookBook\.git\objects\08
+F:\Learn\Python\PythonCookBook\.git\objects\0a
+F:\Learn\Python\PythonCookBook\.git\objects\0d
+F:\Learn\Python\PythonCookBook\.git\objects\0f
+F:\Learn\Python\PythonCookBook\.git\objects\10
+F:\Learn\Python\PythonCookBook\.git\objects\15
+F:\Learn\Python\PythonCookBook\.git\objects\17
+F:\Learn\Python\PythonCookBook\.git\objects\1b
+F:\Learn\Python\PythonCookBook\.git\objects\1d
+F:\Learn\Python\PythonCookBook\.git\objects\21
+F:\Learn\Python\PythonCookBook\.git\objects\23
+F:\Learn\Python\PythonCookBook\.git\objects\25
+F:\Learn\Python\PythonCookBook\.git\objects\26
+F:\Learn\Python\PythonCookBook\.git\objects\28
+F:\Learn\Python\PythonCookBook\.git\objects\29
+F:\Learn\Python\PythonCookBook\.git\objects\2a
+F:\Learn\Python\PythonCookBook\.git\objects\2b
+F:\Learn\Python\PythonCookBook\.git\objects\2d
+F:\Learn\Python\PythonCookBook\.git\objects\33
+F:\Learn\Python\PythonCookBook\.git\objects\36
+F:\Learn\Python\PythonCookBook\.git\objects\3c
+F:\Learn\Python\PythonCookBook\.git\objects\3d
+F:\Learn\Python\PythonCookBook\.git\objects\3e
+F:\Learn\Python\PythonCookBook\.git\objects\40
+F:\Learn\Python\PythonCookBook\.git\objects\42
+F:\Learn\Python\PythonCookBook\.git\objects\43
+F:\Learn\Python\PythonCookBook\.git\objects\44
+F:\Learn\Python\PythonCookBook\.git\objects\46
+F:\Learn\Python\PythonCookBook\.git\objects\47
+F:\Learn\Python\PythonCookBook\.git\objects\4b
+F:\Learn\Python\PythonCookBook\.git\objects\4d
+F:\Learn\Python\PythonCookBook\.git\objects\4e
+F:\Learn\Python\PythonCookBook\.git\objects\4f
+F:\Learn\Python\PythonCookBook\.git\objects\52
+F:\Learn\Python\PythonCookBook\.git\objects\53
+F:\Learn\Python\PythonCookBook\.git\objects\55
+F:\Learn\Python\PythonCookBook\.git\objects\56
+F:\Learn\Python\PythonCookBook\.git\objects\58
+F:\Learn\Python\PythonCookBook\.git\objects\59
+F:\Learn\Python\PythonCookBook\.git\objects\5b
+F:\Learn\Python\PythonCookBook\.git\objects\5c
+F:\Learn\Python\PythonCookBook\.git\objects\5e
+F:\Learn\Python\PythonCookBook\.git\objects\61
+F:\Learn\Python\PythonCookBook\.git\objects\62
+F:\Learn\Python\PythonCookBook\.git\objects\67
+F:\Learn\Python\PythonCookBook\.git\objects\69
+F:\Learn\Python\PythonCookBook\.git\objects\6a
+F:\Learn\Python\PythonCookBook\.git\objects\6b
+F:\Learn\Python\PythonCookBook\.git\objects\74
+F:\Learn\Python\PythonCookBook\.git\objects\78
+F:\Learn\Python\PythonCookBook\.git\objects\79
+F:\Learn\Python\PythonCookBook\.git\objects\7c
+F:\Learn\Python\PythonCookBook\.git\objects\7d
+F:\Learn\Python\PythonCookBook\.git\objects\7e
+F:\Learn\Python\PythonCookBook\.git\objects\81
+F:\Learn\Python\PythonCookBook\.git\objects\82
+F:\Learn\Python\PythonCookBook\.git\objects\86
+F:\Learn\Python\PythonCookBook\.git\objects\87
+F:\Learn\Python\PythonCookBook\.git\objects\88
+F:\Learn\Python\PythonCookBook\.git\objects\89
+F:\Learn\Python\PythonCookBook\.git\objects\8b
+F:\Learn\Python\PythonCookBook\.git\objects\8c
+F:\Learn\Python\PythonCookBook\.git\objects\8d
+F:\Learn\Python\PythonCookBook\.git\objects\8e
+F:\Learn\Python\PythonCookBook\.git\objects\8f
+F:\Learn\Python\PythonCookBook\.git\objects\94
+F:\Learn\Python\PythonCookBook\.git\objects\96
+F:\Learn\Python\PythonCookBook\.git\objects\97
+F:\Learn\Python\PythonCookBook\.git\objects\9c
+F:\Learn\Python\PythonCookBook\.git\objects\9d
+F:\Learn\Python\PythonCookBook\.git\objects\9f
+F:\Learn\Python\PythonCookBook\.git\objects\a0
+F:\Learn\Python\PythonCookBook\.git\objects\a2
+F:\Learn\Python\PythonCookBook\.git\objects\a4
+F:\Learn\Python\PythonCookBook\.git\objects\a5
+F:\Learn\Python\PythonCookBook\.git\objects\a6
+F:\Learn\Python\PythonCookBook\.git\objects\ae
+F:\Learn\Python\PythonCookBook\.git\objects\b1
+F:\Learn\Python\PythonCookBook\.git\objects\b3
+F:\Learn\Python\PythonCookBook\.git\objects\b4
+F:\Learn\Python\PythonCookBook\.git\objects\b5
+F:\Learn\Python\PythonCookBook\.git\objects\b8
+F:\Learn\Python\PythonCookBook\.git\objects\bc
+F:\Learn\Python\PythonCookBook\.git\objects\c3
+F:\Learn\Python\PythonCookBook\.git\objects\c4
+F:\Learn\Python\PythonCookBook\.git\objects\c8
+F:\Learn\Python\PythonCookBook\.git\objects\cd
+F:\Learn\Python\PythonCookBook\.git\objects\ce
+F:\Learn\Python\PythonCookBook\.git\objects\d0
+F:\Learn\Python\PythonCookBook\.git\objects\d2
+F:\Learn\Python\PythonCookBook\.git\objects\d5
+F:\Learn\Python\PythonCookBook\.git\objects\d6
+F:\Learn\Python\PythonCookBook\.git\objects\da
+F:\Learn\Python\PythonCookBook\.git\objects\db
+F:\Learn\Python\PythonCookBook\.git\objects\dc
+F:\Learn\Python\PythonCookBook\.git\objects\df
+F:\Learn\Python\PythonCookBook\.git\objects\e0
+F:\Learn\Python\PythonCookBook\.git\objects\e2
+F:\Learn\Python\PythonCookBook\.git\objects\e3
+F:\Learn\Python\PythonCookBook\.git\objects\e5
+F:\Learn\Python\PythonCookBook\.git\objects\e6
+F:\Learn\Python\PythonCookBook\.git\objects\e7
+F:\Learn\Python\PythonCookBook\.git\objects\e9
+F:\Learn\Python\PythonCookBook\.git\objects\ea
+F:\Learn\Python\PythonCookBook\.git\objects\eb
+F:\Learn\Python\PythonCookBook\.git\objects\ee
+F:\Learn\Python\PythonCookBook\.git\objects\f2
+F:\Learn\Python\PythonCookBook\.git\objects\f3
+F:\Learn\Python\PythonCookBook\.git\objects\f5
+F:\Learn\Python\PythonCookBook\.git\objects\f6
+F:\Learn\Python\PythonCookBook\.git\objects\f7
+F:\Learn\Python\PythonCookBook\.git\objects\f8
+F:\Learn\Python\PythonCookBook\.git\objects\fb
+F:\Learn\Python\PythonCookBook\.git\objects\fc
+F:\Learn\Python\PythonCookBook\.git\objects\fe
+F:\Learn\Python\PythonCookBook\.git\objects\info
+F:\Learn\Python\PythonCookBook\.git\objects\pack
+F:\Learn\Python\PythonCookBook\.git\objects\06\8c628194b528de23fd500af53be5c08999d30d
+F:\Learn\Python\PythonCookBook\.git\objects\07\f81f434058ebbd33f087536229e1965d6d045c
+F:\Learn\Python\PythonCookBook\.git\objects\08\ce78f1bc28d6af6bbc29a824d287adbcaaf612
+F:\Learn\Python\PythonCookBook\.git\objects\08\eb6345d115fde7bc79c84335d1009a9fc65a1f
+F:\Learn\Python\PythonCookBook\.git\objects\0a\74dbd93161a35c7e21733789f52be8377a8f2f
+F:\Learn\Python\PythonCookBook\.git\objects\0d\d478521395e75aa3d748c50dd9ad2598a54a4d
+F:\Learn\Python\PythonCookBook\.git\objects\0f\a155639847a8c48fb3cf2f8ae514d2053d00a5
+F:\Learn\Python\PythonCookBook\.git\objects\10\5ce2da2d6447d11dfe32bfb846c3d5b199fc99
+F:\Learn\Python\PythonCookBook\.git\objects\15\56e312716f470fc897ff83eefcd605e1db02db
+F:\Learn\Python\PythonCookBook\.git\objects\15\822dc5280de9d1999114f6d4bc743f537bd7ab
+F:\Learn\Python\PythonCookBook\.git\objects\17\9a1ab4e4b95f573eaa493aef1f791000d07318
+F:\Learn\Python\PythonCookBook\.git\objects\1b\0b74583c3493c09014186a4c22f5638f09a526
+F:\Learn\Python\PythonCookBook\.git\objects\1b\4b5ca6bdf5bf31acb4f0180af7e7e63a856e80
+F:\Learn\Python\PythonCookBook\.git\objects\1d\b12977ac9af0ea5ada0566776fd591e027cf1f
+F:\Learn\Python\PythonCookBook\.git\objects\21\6307d551a35120c9aeb56f818c019d3799a375
+F:\Learn\Python\PythonCookBook\.git\objects\23\d104cca7430f602649ec5b00c8e0795ee24cd1
+F:\Learn\Python\PythonCookBook\.git\objects\25\fe030a3b4f3857a7a5345a91b3411564db4236
+F:\Learn\Python\PythonCookBook\.git\objects\26\d33521af10bcc7fd8cea344038eaaeb78d0ef5
+F:\Learn\Python\PythonCookBook\.git\objects\28\8e2406b186e9a89e7d28e66811f599c74256f1
+F:\Learn\Python\PythonCookBook\.git\objects\29\3b6ec736237f8180ed6c8fcedd66b7cf4310e4
+F:\Learn\Python\PythonCookBook\.git\objects\29\43cdea8a2fd9e1d41daeb2662e23c1417c867b
+F:\Learn\Python\PythonCookBook\.git\objects\2a\26337f6d138a24b261f922410b1dd77a54b4c5
+F:\Learn\Python\PythonCookBook\.git\objects\2a\9ebbc201389f97e1554564df6e256fe22b76a6
+F:\Learn\Python\PythonCookBook\.git\objects\2b\d7ba5d8d7f0cdbf1e0cc6c4a1887ec4b5d15ad
+F:\Learn\Python\PythonCookBook\.git\objects\2d\62988884e5f04716e7e938bf49f8cc31f4e9e6
+F:\Learn\Python\PythonCookBook\.git\objects\2d\6809c7d0a9dccaba7609b1093228f664999268
+F:\Learn\Python\PythonCookBook\.git\objects\33\c2b62777ca7c68266a385f16dfad214ba218f8
+F:\Learn\Python\PythonCookBook\.git\objects\36\0f21b1593c5a58dadf99d53f5bb00de10b0f1a
+F:\Learn\Python\PythonCookBook\.git\objects\3c\f598737afd096a860a0733c420cc39feac1c1d
+F:\Learn\Python\PythonCookBook\.git\objects\3d\0946046264985b9ab3565c027429dc3583ec36
+F:\Learn\Python\PythonCookBook\.git\objects\3d\78596b94901c34259eb9a57a4e32ae4d94b584
+F:\Learn\Python\PythonCookBook\.git\objects\3e\e087883c93e0cb4c99d104d3e2bbe39a153421
+F:\Learn\Python\PythonCookBook\.git\objects\40\1d01d232f6d49ae1688f407927969131c095f9
+F:\Learn\Python\PythonCookBook\.git\objects\42\a2454b2e0294fcaea1c5ac9476f4b84871117c
+F:\Learn\Python\PythonCookBook\.git\objects\42\b7e74be054281ab0eed2e7c24dcf550dfef522
+F:\Learn\Python\PythonCookBook\.git\objects\42\f0497958069cebcd37eee99f6a92f47b8c35c3
+F:\Learn\Python\PythonCookBook\.git\objects\43\65ed6324be8573da4eb1bb85f9c5000c7615d9
+F:\Learn\Python\PythonCookBook\.git\objects\44\dfde5663b8bafe2aaa39da9e9c835f1484575a
+F:\Learn\Python\PythonCookBook\.git\objects\46\a4939092af21e26ccdb02470e42a194c7b9396
+F:\Learn\Python\PythonCookBook\.git\objects\47\f67c640f13cdc0b47c808f5d4c3984483e0555
+F:\Learn\Python\PythonCookBook\.git\objects\4b\125315b5191dc62f9f9dd4fc822b93ebc11d74
+F:\Learn\Python\PythonCookBook\.git\objects\4d\22f5188880604c910d92e2687bd9f108725216
+F:\Learn\Python\PythonCookBook\.git\objects\4e\b7e66631743cac965d7695258635eaecaaf62b
+F:\Learn\Python\PythonCookBook\.git\objects\4f\d854520e817aa4110acefe549920639a760ab0
+F:\Learn\Python\PythonCookBook\.git\objects\4f\e8ec1d4dff6fed875a1ad6320a8577162e1cd8
+F:\Learn\Python\PythonCookBook\.git\objects\52\de052a59b301a6a125a8d1b78d7508925bf0c5
+F:\Learn\Python\PythonCookBook\.git\objects\53\b2d2a0998cd10adf4e11dfb91458b1614449dc
+F:\Learn\Python\PythonCookBook\.git\objects\53\e29b0b284ba3e73ebd55c2c4a698f36dd264b1
+F:\Learn\Python\PythonCookBook\.git\objects\55\190f9485842f8d315754fc1b310b54230d51ba
+F:\Learn\Python\PythonCookBook\.git\objects\56\7d2f08d7e8127e8a3f4ec64cec7ff8f8687832
+F:\Learn\Python\PythonCookBook\.git\objects\58\8907230e2b95ab897782488b9a9677e0d7e159
+F:\Learn\Python\PythonCookBook\.git\objects\59\6d86e1b000931aa42d39f69428027d051601e8
+F:\Learn\Python\PythonCookBook\.git\objects\5b\a643bf41d89872f470f6cb0d7d771e115ad605
+F:\Learn\Python\PythonCookBook\.git\objects\5c\d6197e06ab4fd599b16685e8b0d01ee973bc37
+F:\Learn\Python\PythonCookBook\.git\objects\5e\bbab67007260c719400ec442aee99935627ecf
+F:\Learn\Python\PythonCookBook\.git\objects\61\114557222d94d99a83da6d99f992be76c84750
+F:\Learn\Python\PythonCookBook\.git\objects\62\95d52055383ab50dd5e3113ed99f95b33baf13
+F:\Learn\Python\PythonCookBook\.git\objects\67\b3e4970b88da340f6ccbc3c3d62a3ff7b23f7e
+F:\Learn\Python\PythonCookBook\.git\objects\69\3c342b27c58c0ca2afd0617b556c90541bc96b
+F:\Learn\Python\PythonCookBook\.git\objects\6a\293754fba4e1ba8be1b012b1cfa25dd4eac4b4
+F:\Learn\Python\PythonCookBook\.git\objects\6a\4f9af9052c7830f0b01b8eb8e270accf824af8
+F:\Learn\Python\PythonCookBook\.git\objects\6b\fc19fd789b240502b50ba5e72e376a8ac24cf2
+F:\Learn\Python\PythonCookBook\.git\objects\74\f844e9cc9d1d7b545b789922c39045037c1b70
+F:\Learn\Python\PythonCookBook\.git\objects\78\31d5439ba8baae7d5cc857d5c97f687f4fdb58
+F:\Learn\Python\PythonCookBook\.git\objects\78\a8abd8f26b15c1881806838c0b211778f6fd8c
+F:\Learn\Python\PythonCookBook\.git\objects\79\9e9361956cdda877f1f8245474220c33057083
+F:\Learn\Python\PythonCookBook\.git\objects\7c\9d47be81f60d70683d6214483eb6ccda247b0e
+F:\Learn\Python\PythonCookBook\.git\objects\7d\acfe6ba264ff421bdd7977ecbd65e5a227540b
+F:\Learn\Python\PythonCookBook\.git\objects\7e\fbdae78beb24fc081de4d9ad4c333a2287c5e7
+F:\Learn\Python\PythonCookBook\.git\objects\81\61a60d9cb6975e499a5106c4654282905881e5
+F:\Learn\Python\PythonCookBook\.git\objects\81\641fdedfff33cf8b16a191d7d86fed4b739474
+F:\Learn\Python\PythonCookBook\.git\objects\81\7dbb9ddcbcf1037680bbe6f345a02dbe1ebebd
+F:\Learn\Python\PythonCookBook\.git\objects\82\34694ef58bf2a2ea57edddc0083c35f509cb01
+F:\Learn\Python\PythonCookBook\.git\objects\86\b851f33d523bb0926ce7232bbb8cfe789091f9
+F:\Learn\Python\PythonCookBook\.git\objects\87\33b1ab4ba0bfeb84a5d4f30bfcb7c1a63f2ca9
+F:\Learn\Python\PythonCookBook\.git\objects\88\00ac5b324ba12df337036f45588d68016e5c2b
+F:\Learn\Python\PythonCookBook\.git\objects\88\ef8df12f98287ce317cedcb7bc93a1b09619f1
+F:\Learn\Python\PythonCookBook\.git\objects\89\42cebb7538e62d44e33e7800d25bd4b3d87c58
+F:\Learn\Python\PythonCookBook\.git\objects\89\8d441b7f4802f01f2ccd46813c6aa20ab1506a
+F:\Learn\Python\PythonCookBook\.git\objects\89\a3e78d271cc05db4d97ac769951d7ea00e7a72
+F:\Learn\Python\PythonCookBook\.git\objects\8b\f3867988c56624e799066c8c5fffbbb3b5525d
+F:\Learn\Python\PythonCookBook\.git\objects\8c\06e8cf9b06983230ce597bd7381d4f01de3091
+F:\Learn\Python\PythonCookBook\.git\objects\8d\61db084ac7350d38afb858459ef75c0bc07e8c
+F:\Learn\Python\PythonCookBook\.git\objects\8d\69af9c7f930708cd6779ffff60e1ebc643e5b2
+F:\Learn\Python\PythonCookBook\.git\objects\8e\ba782305f737e5b76f34e7d64b1b499d7b7480
+F:\Learn\Python\PythonCookBook\.git\objects\8e\c425a91929db4b3913432e410c3c6f94ff84dd
+F:\Learn\Python\PythonCookBook\.git\objects\8f\239663248610ee6eb4662a29d0d38138a05944
+F:\Learn\Python\PythonCookBook\.git\objects\8f\b51d6889834bf02f2278568c5fe869e5b41fcf
+F:\Learn\Python\PythonCookBook\.git\objects\94\51ed11f2f01d623f90a9f0132d0aa73ac764c9
+F:\Learn\Python\PythonCookBook\.git\objects\94\a25f7f4cb416c083d265558da75d457237d671
+F:\Learn\Python\PythonCookBook\.git\objects\96\fe44251b6373ad46c1eba6df3922cc063aff26
+F:\Learn\Python\PythonCookBook\.git\objects\97\24152c292c3548dba07d2c98b117e7533e516e
+F:\Learn\Python\PythonCookBook\.git\objects\97\824ec9b0149e48c91dce4fee530335b327c686
+F:\Learn\Python\PythonCookBook\.git\objects\97\8ccc041122a59ee5a93569a2f4de5864f1c16a
+F:\Learn\Python\PythonCookBook\.git\objects\9c\cf9891eeda582647173f8e8ede0da54d10239e
+F:\Learn\Python\PythonCookBook\.git\objects\9d\3f917e6d5102a10dc2d81ac77c5fe9a78c0211
+F:\Learn\Python\PythonCookBook\.git\objects\9d\da08d66186bffbfbab8137d528fefd33ae70a5
+F:\Learn\Python\PythonCookBook\.git\objects\9d\e0f951b5657f9b05a3c8850fb9e6a3d7c35c5e
+F:\Learn\Python\PythonCookBook\.git\objects\9f\2634f0602de416f787818a4fb04e08d27996a8
+F:\Learn\Python\PythonCookBook\.git\objects\9f\730cb722fd4a2b4f9a82a936ed1e718486d457
+F:\Learn\Python\PythonCookBook\.git\objects\a0\1c06114ff9b3c64784259e0be3f7dbf2ab414c
+F:\Learn\Python\PythonCookBook\.git\objects\a2\57987ba088bf83825c5f04586d1924ba3ecc46
+F:\Learn\Python\PythonCookBook\.git\objects\a4\377bc4d0b2d0b1d9ff9ddc68e44e0c5ad4c5ad
+F:\Learn\Python\PythonCookBook\.git\objects\a5\061845a7793ba6a98e6b2d713ba8d44533f772
+F:\Learn\Python\PythonCookBook\.git\objects\a6\20144b9534013e791818aadc264161a91565b7
+F:\Learn\Python\PythonCookBook\.git\objects\ae\55fffd912cab541b074bd716214b5c0908ea85
+F:\Learn\Python\PythonCookBook\.git\objects\b1\4d2ae3a7baaca78d0e863bf2458e066c260a42
+F:\Learn\Python\PythonCookBook\.git\objects\b1\bcfe3cf25a314a805ffffa0d4ea6c1f7b5b692
+F:\Learn\Python\PythonCookBook\.git\objects\b3\30c182396c74ee47237f82f0ff0e5bb3dd1e1e
+F:\Learn\Python\PythonCookBook\.git\objects\b3\7575bede69c633e6cdd10ba28ccfc999df2756
+F:\Learn\Python\PythonCookBook\.git\objects\b4\ee6ebac2964a95a632e2ac71a74025151b625f
+F:\Learn\Python\PythonCookBook\.git\objects\b5\f477def0f0c2c750aae537c62b5ebbc4dc289b
+F:\Learn\Python\PythonCookBook\.git\objects\b5\f53ee85603a8570e56aa3fcb42186d47887584
+F:\Learn\Python\PythonCookBook\.git\objects\b8\66d05cb5faa6dc845aa8bab56a14d42b6727c6
+F:\Learn\Python\PythonCookBook\.git\objects\bc\8dc2153b460635237d1635a199064456663212
+F:\Learn\Python\PythonCookBook\.git\objects\c3\816af638065c5de71b984f10f8116e58392833
+F:\Learn\Python\PythonCookBook\.git\objects\c4\db847c4cb8dc25ae778bf9b30b883b3731bd6b
+F:\Learn\Python\PythonCookBook\.git\objects\c8\f328f7b645ea88be9c5a3b5925d3a5a4542f96
+F:\Learn\Python\PythonCookBook\.git\objects\cd\07a0f9473d74b368290457de6a6afc95124279
+F:\Learn\Python\PythonCookBook\.git\objects\cd\5213a986c06753a3e3d751cfa7a67f8919b973
+F:\Learn\Python\PythonCookBook\.git\objects\ce\a4c5c8f61c813dec846fec473052dcb007d147
+F:\Learn\Python\PythonCookBook\.git\objects\d0\876a78d06ac03b5d78c8dcdb95570281c6f1d6
+F:\Learn\Python\PythonCookBook\.git\objects\d0\cfec1ad7fd692ee5c5bbe4c3ead179ea69cfe5
+F:\Learn\Python\PythonCookBook\.git\objects\d2\26a03879585c5bce1f021be72a9ffc3530178f
+F:\Learn\Python\PythonCookBook\.git\objects\d5\32f98261a46a3f79d9274711ae741ce0f37ec3
+F:\Learn\Python\PythonCookBook\.git\objects\d6\2f282abe4b50f7c5f89cac6e31e6c29d2b5b93
+F:\Learn\Python\PythonCookBook\.git\objects\d6\8e640a2863041f5924d590873030834a320970
+F:\Learn\Python\PythonCookBook\.git\objects\da\9f86d35e70ebc76a52b453f45cc2502df42456
+F:\Learn\Python\PythonCookBook\.git\objects\db\7f7b599857c6932a8a74aa3b210cc649640f6b
+F:\Learn\Python\PythonCookBook\.git\objects\dc\1136d486092b81977da4fc85b7671750e0eeda
+F:\Learn\Python\PythonCookBook\.git\objects\dc\acbfbdbdabd7695edb6442a1397ff8566c24b4
+F:\Learn\Python\PythonCookBook\.git\objects\df\488dfe49754ac84923d6e7977e7240a78b4df1
+F:\Learn\Python\PythonCookBook\.git\objects\e0\c8040a26abf07c182b8ee06cd878b16f647116
+F:\Learn\Python\PythonCookBook\.git\objects\e0\d6d66b0daa1ad491c01fa0fea0ae141f0a36f6
+F:\Learn\Python\PythonCookBook\.git\objects\e2\3829ee93c053ca5034867d9db5eb5c27839f44
+F:\Learn\Python\PythonCookBook\.git\objects\e3\2ff26719da59ea5d4de89b5a568eaf7424ac47
+F:\Learn\Python\PythonCookBook\.git\objects\e5\8fe8e5c3ad491772221384bf2c53d18aa24a80
+F:\Learn\Python\PythonCookBook\.git\objects\e5\942e74b97e04d6fdba8fa84fcd76a876e37ef7
+F:\Learn\Python\PythonCookBook\.git\objects\e5\99cbcb281d4bb1a9f94cd872b69eac5461d935
+F:\Learn\Python\PythonCookBook\.git\objects\e6\743fb7854bbc210c4f382a1839a42fedba301a
+F:\Learn\Python\PythonCookBook\.git\objects\e6\89d36294a59cefb9c2b57522cd9a089a91706c
+F:\Learn\Python\PythonCookBook\.git\objects\e7\6698734a96af69f214ef36900be6d84a98040e
+F:\Learn\Python\PythonCookBook\.git\objects\e9\4946f76782caf1da5a2bb5b94d8b1f30a2dc16
+F:\Learn\Python\PythonCookBook\.git\objects\ea\efcbe053a747768aebb9800c09610c5b024aa9
+F:\Learn\Python\PythonCookBook\.git\objects\eb\fdd50f24d4b82e78cfd9b8b5dbcc6de79f9cb7
+F:\Learn\Python\PythonCookBook\.git\objects\ee\21d4d08ff39f77975c2a5eadb686c05c0fec96
+F:\Learn\Python\PythonCookBook\.git\objects\f2\8640ff324a03771ccdcdb1304e6099abcb176e
+F:\Learn\Python\PythonCookBook\.git\objects\f3\535f84d27a6a1e9e045d96d24d62e07b662018
+F:\Learn\Python\PythonCookBook\.git\objects\f5\d33068fa966ca63753d0786153f49e50fef25e
+F:\Learn\Python\PythonCookBook\.git\objects\f6\6e5d43f67464481acc509895ffb4c9bb470e9b
+F:\Learn\Python\PythonCookBook\.git\objects\f7\07e5b481f6213e767b146badfb768a10914812
+F:\Learn\Python\PythonCookBook\.git\objects\f7\dc447f93d1005511e351bb8f807afbb5687027
+F:\Learn\Python\PythonCookBook\.git\objects\f8\dcbab1134222a0263f2e646046ab5a39aed60f
+F:\Learn\Python\PythonCookBook\.git\objects\fb\64a1293ec5fb221817a69016cf91beacb33c01
+F:\Learn\Python\PythonCookBook\.git\objects\fb\7ada065ffcc42d8c154b98688b406618e4621f
+F:\Learn\Python\PythonCookBook\.git\objects\fc\5076cd9e5b1b9434badd278aae38a66afc8dc4
+F:\Learn\Python\PythonCookBook\.git\objects\fe\682cdd3fcf4a062302df96d681612698646a6c
+F:\Learn\Python\PythonCookBook\.git\objects\fe\df221f72f446ce0c3999d263ca8db6e30e895a
+F:\Learn\Python\PythonCookBook\.git\objects\pack\pack-782fd39d0694352431b9f8868270fef19501b546.idx
+F:\Learn\Python\PythonCookBook\.git\objects\pack\pack-782fd39d0694352431b9f8868270fef19501b546.pack
+F:\Learn\Python\PythonCookBook\.git\refs\heads
+F:\Learn\Python\PythonCookBook\.git\refs\remotes
+F:\Learn\Python\PythonCookBook\.git\refs\tags
+F:\Learn\Python\PythonCookBook\.git\refs\heads\main
+F:\Learn\Python\PythonCookBook\.git\refs\remotes\origin
+F:\Learn\Python\PythonCookBook\.git\refs\remotes\origin\HEAD
+F:\Learn\Python\PythonCookBook\.git\refs\remotes\origin\main
+F:\Learn\Python\PythonCookBook\.idea\.gitignore
+F:\Learn\Python\PythonCookBook\.idea\codes.iml
+F:\Learn\Python\PythonCookBook\.idea\inspectionProfiles
+F:\Learn\Python\PythonCookBook\.idea\misc.xml
+F:\Learn\Python\PythonCookBook\.idea\modules.xml
+F:\Learn\Python\PythonCookBook\.idea\vcs.xml
+F:\Learn\Python\PythonCookBook\.idea\workspace.xml
+F:\Learn\Python\PythonCookBook\.idea\inspectionProfiles\profiles_settings.xml
+F:\Learn\Python\PythonCookBook\chapter1\1_10Removing Duplicates from a Sequence While Maintaining Order
+F:\Learn\Python\PythonCookBook\chapter1\1_11Naming a Slice
+F:\Learn\Python\PythonCookBook\chapter1\1_12Determining the Most Frequently Occurring Items in a Sequence
+F:\Learn\Python\PythonCookBook\chapter1\1_13Sorting a List of Dictionaries by a Common Key
+F:\Learn\Python\PythonCookBook\chapter1\1_14Sorting Objects Without Native Comparison Support
+F:\Learn\Python\PythonCookBook\chapter1\1_15Grouping Records Together Based on a Field
+F:\Learn\Python\PythonCookBook\chapter1\1_16Filtering Sequence Elements
+F:\Learn\Python\PythonCookBook\chapter1\1_17Extracting a Subset of a Dictionary
+F:\Learn\Python\PythonCookBook\chapter1\1_18Mapping Names to Sequence Elements
+F:\Learn\Python\PythonCookBook\chapter1\1_19Transforming and Reducing Data at the Same Time
+F:\Learn\Python\PythonCookBook\chapter1\1_1UnPacking A Sequence Into Separate Variables
+F:\Learn\Python\PythonCookBook\chapter1\1_20Combining Multiple Mappings into a Single Mapping
+F:\Learn\Python\PythonCookBook\chapter1\1_2Unpacking Elements From Iterables of Arbitrary Length
+F:\Learn\Python\PythonCookBook\chapter1\1_3Keeping the Last N Items
+F:\Learn\Python\PythonCookBook\chapter1\1_4Finding the Largetst or Smallest N Items
+F:\Learn\Python\PythonCookBook\chapter1\1_5Implementing a Priority Queue
+F:\Learn\Python\PythonCookBook\chapter1\1_6Mapping Keys to Multiple Values in a Dictionary
+F:\Learn\Python\PythonCookBook\chapter1\1_7Keeping Dictionaries In Order
+F:\Learn\Python\PythonCookBook\chapter1\1_8Calculating with Dictionaries
+F:\Learn\Python\PythonCookBook\chapter1\1_9Finding Commonalities in Two Dictionaries
+F:\Learn\Python\PythonCookBook\chapter1\1_10Removing Duplicates from a Sequence While Maintaining Order\1_10.py
+F:\Learn\Python\PythonCookBook\chapter1\1_11Naming a Slice\1_11.py
+F:\Learn\Python\PythonCookBook\chapter1\1_12Determining the Most Frequently Occurring Items in a Sequence\1_12.py
+F:\Learn\Python\PythonCookBook\chapter1\1_13Sorting a List of Dictionaries by a Common Key\1_13.py
+F:\Learn\Python\PythonCookBook\chapter1\1_14Sorting Objects Without Native Comparison Support\1_14.py
+F:\Learn\Python\PythonCookBook\chapter1\1_15Grouping Records Together Based on a Field\1_15.py
+F:\Learn\Python\PythonCookBook\chapter1\1_16Filtering Sequence Elements\1_16.py
+F:\Learn\Python\PythonCookBook\chapter1\1_17Extracting a Subset of a Dictionary\1_17.py
+F:\Learn\Python\PythonCookBook\chapter1\1_18Mapping Names to Sequence Elements\1_18.py
+F:\Learn\Python\PythonCookBook\chapter1\1_19Transforming and Reducing Data at the Same Time\1_19.py
+F:\Learn\Python\PythonCookBook\chapter1\1_1UnPacking A Sequence Into Separate Variables\P1_1.py
+F:\Learn\Python\PythonCookBook\chapter1\1_20Combining Multiple Mappings into a Single Mapping\1_20.py
+F:\Learn\Python\PythonCookBook\chapter1\1_2Unpacking Elements From Iterables of Arbitrary Length\1_2.py
+F:\Learn\Python\PythonCookBook\chapter1\1_3Keeping the Last N Items\1.txt
+F:\Learn\Python\PythonCookBook\chapter1\1_3Keeping the Last N Items\1_3.py
+F:\Learn\Python\PythonCookBook\chapter1\1_4Finding the Largetst or Smallest N Items\1_4.py
+F:\Learn\Python\PythonCookBook\chapter1\1_5Implementing a Priority Queue\1_5.py
+F:\Learn\Python\PythonCookBook\chapter1\1_6Mapping Keys to Multiple Values in a Dictionary\1_6.py
+F:\Learn\Python\PythonCookBook\chapter1\1_7Keeping Dictionaries In Order\1_7.py
+F:\Learn\Python\PythonCookBook\chapter1\1_8Calculating with Dictionaries\1_8.py
+F:\Learn\Python\PythonCookBook\chapter1\1_9Finding Commonalities in Two Dictionaries\1_9.py
+F:\Learn\Python\PythonCookBook\chapter2\2_10Working with Unicode Characters in Regular Expressions
+F:\Learn\Python\PythonCookBook\chapter2\2_11Stripping Unwanted Characters from Strings
+F:\Learn\Python\PythonCookBook\chapter2\2_12Sanitizing and Cleaning Up Text
+F:\Learn\Python\PythonCookBook\chapter2\2_13Aligning Text Strings
+F:\Learn\Python\PythonCookBook\chapter2\2_14Combining and Concatenating Strings
+F:\Learn\Python\PythonCookBook\chapter2\2_15Interpolating Variables in Strings
+F:\Learn\Python\PythonCookBook\chapter2\2_16Reformatting Text to a Fixed Number of Columns
+F:\Learn\Python\PythonCookBook\chapter2\2_17Handling HTML and XML Entities in Text
+F:\Learn\Python\PythonCookBook\chapter2\2_18Tokenizing Text
+F:\Learn\Python\PythonCookBook\chapter2\2_19Writing a Simple Recursive Descent Parser
+F:\Learn\Python\PythonCookBook\chapter2\2_1Splitting Strings on Any of Multiple Delimiters
+F:\Learn\Python\PythonCookBook\chapter2\2_20Performing Text Operations on Byte Strings
+F:\Learn\Python\PythonCookBook\chapter2\2_2Matching Text at the Start or End of a String
+F:\Learn\Python\PythonCookBook\chapter2\2_3Matching Strings Using Shell Wildcard Patterns
+F:\Learn\Python\PythonCookBook\chapter2\2_4Matching and Searching for Text Patterns
+F:\Learn\Python\PythonCookBook\chapter2\2_5Searching and Replacing Text
+F:\Learn\Python\PythonCookBook\chapter2\2_6Searching and Replacing Case-Insensitive Text
+F:\Learn\Python\PythonCookBook\chapter2\2_7Specifying a Regular Expression for the Shortest Match
+F:\Learn\Python\PythonCookBook\chapter2\2_8Writing a Regular Expression for Multiline Patterns
+F:\Learn\Python\PythonCookBook\chapter2\2_9Normalizing Unicode Text to a Standard Representation
+F:\Learn\Python\PythonCookBook\chapter2\2_10Working with Unicode Characters in Regular Expressions\2_10.py
+F:\Learn\Python\PythonCookBook\chapter2\2_11Stripping Unwanted Characters from Strings\2_11.py
+F:\Learn\Python\PythonCookBook\chapter2\2_12Sanitizing and Cleaning Up Text\2_12.py
+F:\Learn\Python\PythonCookBook\chapter2\2_13Aligning Text Strings\2_13.py
+F:\Learn\Python\PythonCookBook\chapter2\2_14Combining and Concatenating Strings\2_14.py
+F:\Learn\Python\PythonCookBook\chapter2\2_15Interpolating Variables in Strings\2_15.py
+F:\Learn\Python\PythonCookBook\chapter2\2_16Reformatting Text to a Fixed Number of Columns\2_16.py
+F:\Learn\Python\PythonCookBook\chapter2\2_17Handling HTML and XML Entities in Text\2_17.py
+F:\Learn\Python\PythonCookBook\chapter2\2_18Tokenizing Text\2_18.py
+F:\Learn\Python\PythonCookBook\chapter2\2_19Writing a Simple Recursive Descent Parser\2_19.py
+F:\Learn\Python\PythonCookBook\chapter2\2_1Splitting Strings on Any of Multiple Delimiters\2_1.py
+F:\Learn\Python\PythonCookBook\chapter2\2_20Performing Text Operations on Byte Strings\2_20.py
+F:\Learn\Python\PythonCookBook\chapter2\2_2Matching Text at the Start or End of a String\2_2.py
+F:\Learn\Python\PythonCookBook\chapter2\2_3Matching Strings Using Shell Wildcard Patterns\2_3.py
+F:\Learn\Python\PythonCookBook\chapter2\2_4Matching and Searching for Text Patterns\2_4.py
+F:\Learn\Python\PythonCookBook\chapter2\2_5Searching and Replacing Text\2_5.py
+F:\Learn\Python\PythonCookBook\chapter2\2_6Searching and Replacing Case-Insensitive Text\2_6.py
+F:\Learn\Python\PythonCookBook\chapter2\2_7Specifying a Regular Expression for the Shortest Match\2_7.py
+F:\Learn\Python\PythonCookBook\chapter2\2_8Writing a Regular Expression for Multiline Patterns\2_8.py
+F:\Learn\Python\PythonCookBook\chapter2\2_9Normalizing Unicode Text to a Standard Representation\2_9.py
+F:\Learn\Python\PythonCookBook\chapter3\3_10Performing Matrix and Linear Algebra Calculations
+F:\Learn\Python\PythonCookBook\chapter3\3_11Picking Things at Random
+F:\Learn\Python\PythonCookBook\chapter3\3_12Converting Days to Seconds and Other Basic Time Conversions
+F:\Learn\Python\PythonCookBook\chapter3\3_13Determining Last Fridays Date
+F:\Learn\Python\PythonCookBook\chapter3\3_14Finding the Date Range for the Current Month
+F:\Learn\Python\PythonCookBook\chapter3\3_15Converting Strings into Datetimes
+F:\Learn\Python\PythonCookBook\chapter3\3_16Manipulating Dates Involving Time Zones
+F:\Learn\Python\PythonCookBook\chapter3\3_1Rounding Numerical Values
+F:\Learn\Python\PythonCookBook\chapter3\3_2Performing Accurate Decimal Calculations
+F:\Learn\Python\PythonCookBook\chapter3\3_3Formatting Numbers for Output
+F:\Learn\Python\PythonCookBook\chapter3\3_4Working with Binary Octal and Hexadecimal
+F:\Learn\Python\PythonCookBook\chapter3\3_5Packing and Unpacking Large Integers from Bytes
+F:\Learn\Python\PythonCookBook\chapter3\3_6Performing Complex-Valued Math
+F:\Learn\Python\PythonCookBook\chapter3\3_7Working with Infinity and NaNs
+F:\Learn\Python\PythonCookBook\chapter3\3_8Calculating with Fractions
+F:\Learn\Python\PythonCookBook\chapter3\3_9Calculating with Large Numerical Arrays
+F:\Learn\Python\PythonCookBook\chapter3\3_10Performing Matrix and Linear Algebra Calculations\3_10.py
+F:\Learn\Python\PythonCookBook\chapter3\3_11Picking Things at Random\3_11.py
+F:\Learn\Python\PythonCookBook\chapter3\3_12Converting Days to Seconds and Other Basic Time Conversions\3_12.py
+F:\Learn\Python\PythonCookBook\chapter3\3_13Determining Last Fridays Date\3_13.py
+F:\Learn\Python\PythonCookBook\chapter3\3_14Finding the Date Range for the Current Month\3_14.py
+F:\Learn\Python\PythonCookBook\chapter3\3_15Converting Strings into Datetimes\3_15.py
+F:\Learn\Python\PythonCookBook\chapter3\3_16Manipulating Dates Involving Time Zones\3_16.py
+F:\Learn\Python\PythonCookBook\chapter3\3_1Rounding Numerical Values\3_1.py
+F:\Learn\Python\PythonCookBook\chapter3\3_2Performing Accurate Decimal Calculations\3_2.py
+F:\Learn\Python\PythonCookBook\chapter3\3_3Formatting Numbers for Output\3_3.py
+F:\Learn\Python\PythonCookBook\chapter3\3_4Working with Binary Octal and Hexadecimal\3_4.py
+F:\Learn\Python\PythonCookBook\chapter3\3_5Packing and Unpacking Large Integers from Bytes\3_5.py
+F:\Learn\Python\PythonCookBook\chapter3\3_6Performing Complex-Valued Math\3_6.py
+F:\Learn\Python\PythonCookBook\chapter3\3_7Working with Infinity and NaNs\3_7.py
+F:\Learn\Python\PythonCookBook\chapter3\3_8Calculating with Fractions\3_8.py
+F:\Learn\Python\PythonCookBook\chapter3\3_9Calculating with Large Numerical Arrays\3_9.py
+F:\Learn\Python\PythonCookBook\chapter4\4_1Manually Consuming an Iterator
+F:\Learn\Python\PythonCookBook\chapter4\4_2Delegating Iteration
+F:\Learn\Python\PythonCookBook\chapter4\4_3Creating New Iteration Patterns with Generators
+F:\Learn\Python\PythonCookBook\chapter4\4_4Implementing the Iterator Protocol
+F:\Learn\Python\PythonCookBook\chapter4\4_5Iterating in Reverse
+F:\Learn\Python\PythonCookBook\chapter4\4_6Defining Generator Functions with Extra State
+F:\Learn\Python\PythonCookBook\chapter4\4_1Manually Consuming an Iterator\4_1.py
+F:\Learn\Python\PythonCookBook\chapter4\4_1Manually Consuming an Iterator\test.txt
+F:\Learn\Python\PythonCookBook\chapter4\4_2Delegating Iteration\4_2.py
+F:\Learn\Python\PythonCookBook\chapter4\4_3Creating New Iteration Patterns with Generators\4_3.py
+F:\Learn\Python\PythonCookBook\chapter4\4_4Implementing the Iterator Protocol\4_4.py
+F:\Learn\Python\PythonCookBook\chapter4\4_5Iterating in Reverse\4_5.py
+F:\Learn\Python\PythonCookBook\chapter4\4_6Defining Generator Functions with Extra State\4_6.py
