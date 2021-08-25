@@ -3,6 +3,7 @@ b = float('-inf')
 c = float('nan')
 
 print( a == -b, a/b, a+b )
+print( a*0, b*0 ) #inf * 0 = nan
 print( a>0, a<0, a==0 )
 print( c>0, c<0, c==0 )
 import math
