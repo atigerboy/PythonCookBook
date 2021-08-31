@@ -72,7 +72,7 @@ class Stack2:
 
 from timeit import timeit
 s = Stack() #the faster one
-print( timeit('s.push(1);s.pop()', 'from __main__ import s') )
+print( timeit('s.push(1);s.pop()', 'from __main__ import s') )#test
 
 s = Stack2()
 print( timeit('s.push(1);s.pop()', 'from __main__ import s') )
